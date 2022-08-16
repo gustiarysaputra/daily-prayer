@@ -27,16 +27,16 @@ class PrayerActivity : AppCompatActivity() {
         prayArrayList = arrayListOf<PrayerData>()
 
         image = arrayOf(
+            R.drawable.doa_bangun_pagi,
+            R.drawable.doa_menolak_bala,
+            R.drawable.doa_mandi,
+            R.drawable.doa_menjelang_tidur,
+            R.drawable.doa_pengampunan,
+            R.drawable.doa_bimbingan,
+            R.drawable.doa_cinta_kasihnya,
+            R.drawable.doa_inspirasi,
             R.drawable.sawah1,
-            R.drawable.sawah2,
-            R.drawable.sawah3,
-            R.drawable.sawah1,
-            R.drawable.sawah2,
-            R.drawable.sawah3,
-            R.drawable.sawah1,
-            R.drawable.sawah2,
-            R.drawable.sawah3,
-            R.drawable.sawah1,
+            R.drawable.doa_umur_panjang,
         )
 
         title = arrayOf(
